@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shirlizz)](https://github.com/anuraghazra/github-readme-stats)
 
