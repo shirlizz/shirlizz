@@ -1,5 +1,9 @@
 <h3 align="center">Hey there, I’m Shirley <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></h3>
-
+<div align="center">
+  I'm a <strong>Student</strong> and <strong>Developer</strong>. I like to learn every day. Here on my GitHub you'll find some projects :). 
+  <br>
+  WALKING TOWARD TO UNEXPECTED
+</div>
 <!--
 **shirlizz/shirlizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,3 +30,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-JavaScript-purple?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black">
 </div>
+<hr>
+
