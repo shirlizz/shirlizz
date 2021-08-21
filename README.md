@@ -19,3 +19,15 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/shirley-chuquín-4ab1251a9/"> ![linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
   <a href="https://twitter.com/shirley_liz"> ![twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter)</a>
   <a href="https://www.instagram.com/shirley_lizz/"> ![instagram](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)</a>
+
+<hr>
+<div align="center">
+  <img src="https://img.shields.io/badge/-Bash-ef5faa?style=for-the-badge&logo=linux&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-HTML-red?style=for-the-badge&logo=html5&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-CSS-orange?style=for-the-badge&logo=css3&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-PHP-yellow?style=for-the-badge&logo=php&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-Java-green?style=for-the-badge&logo=java&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-Flutter-indigo?style=for-the-badge&logo=flutter&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-JavaScript-purple?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black">
+</div>
