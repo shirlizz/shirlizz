@@ -3,9 +3,7 @@
   I'm a <strong>Student</strong> and <strong>Developer</strong>. I like to learn every day. Here on my GitHub you'll find some projects :). 
 </div>
 
--> > Walking toward unexpected ✨<-
-
-->THIS TEXT IS IN THE CENTER!<-
+> Walking toward unexpected ✨
 
   <a align="center" href="https://www.linkedin.com/in/shirley-chuquín-4ab1251a9/"> ![linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
   <a align="center" href="https://twitter.com/shirley_liz"> ![twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter)</a>
