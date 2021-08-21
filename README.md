@@ -4,7 +4,7 @@
 </div>
 
 <div style="text-align:center">
-> Walking toward unexpected ✨
+  > Walking toward unexpected ✨
 </div>
 
   <a align="center" href="https://www.linkedin.com/in/shirley-chuquín-4ab1251a9/"> ![linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
