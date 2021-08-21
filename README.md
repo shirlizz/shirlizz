@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Andres' GitHub stats](https://github-readme-stats.vercel.app/api?username=shirlizz&theme=synthwave&show_icons=true&count_private=true “Andres’ GutHub Stats”)
+<a href=”https://www.linkedin.com/in/andres-villegas-79867ab7/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
