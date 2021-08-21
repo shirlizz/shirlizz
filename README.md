@@ -16,7 +16,3 @@ Here are some ideas to get you started:
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-<h3>🎶 Vibing to</h3>
-<a href="https://open.spotify.com/user/dl3rgkrwco194cm2lynildhle">
-  <img src="https://itstommi.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
-</a>
