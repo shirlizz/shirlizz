@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Shirley’ GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisvillegas&theme=shirlizz&show_icons=true&count_private=true “Shirley’ GutHub Stats”)
+![Andres’ GitHub stats](https://github-readme-stats.vercel.app/api?username=shirlizz&theme=synthwave&show_icons=true&count_private=true “Andres’ GutHub Stats”)
