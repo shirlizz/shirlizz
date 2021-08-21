@@ -1,7 +1,7 @@
 <h3 align="center">Hey there, I’m Shirley <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></h3>
 <div align="center">
   I'm a <strong>Student</strong> and <strong>Developer</strong>. I like to learn every day. Here on my GitHub you'll find some projects :). 
-  
+  <br>
   WALKING TOWARD TO UNEXPECTED
 </div>
 
