@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<div align="center">
   <a href="https://www.linkedin.com/in/shirley-chuquín-4ab1251a9/"> ![linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
   <a href="https://twitter.com/shirley_liz"> ![twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter)</a>
   <a href="https://www.instagram.com/shirley_lizz/"> ![instagram](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)</a>
-
+</div>
+  
 <hr>
 <div align="center">
   <img src="https://img.shields.io/badge/-Bash-ef5faa?style=for-the-badge&logo=linux&logoColor=white&labelColor=black">
