@@ -11,6 +11,13 @@
   <a align="center" href="https://twitter.com/shirley_liz"> ![twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter)</a>
   <a align="center" href="https://www.instagram.com/shirley_lizz/"> ![instagram](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)</a>
  
+ <div align="center">
+  <a align="center" href="https://www.linkedin.com/in/shirley-chuquín-4ab1251a9/"> <img src="https://img.shields.io/badge/-HTML-red?style=for-the-badge&logo=html5&logoColor=white&labelColor=black"></a>
+  <a align="center" href="https://twitter.com/shirley_liz"> <img src="https://img.shields.io/badge/-HTML-red?style=for-the-badge&logo=html5&logoColor=white&labelColor=black"></a>
+  <a align="center" href="https://www.instagram.com/shirley_lizz/"><img src="https://img.shields.io/badge/-HTML-red?style=for-the-badge&logo=html5&logoColor=white&labelColor=black"></a>
+</div>
+ 
+ 
 <hr>
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML-red?style=for-the-badge&logo=html5&logoColor=white&labelColor=black">
