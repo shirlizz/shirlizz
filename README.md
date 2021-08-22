@@ -6,7 +6,8 @@
 <div align="center">
 ✨ Walking toward unexpected ✨
 </div >
-  
+
+<br><br>
  
  <div align="center">
   <a align="center" href="https://www.linkedin.com/in/shirley-chuquín-4ab1251a9/">
