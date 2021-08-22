@@ -27,7 +27,10 @@
   </a>
 </div>
  
- 
+ <div align="center">
+ [![Spotify](https://novatorem-shirlizz.vercel.app/api/spotify)](https://open.spotify.com/user/22b3kzoc5opmzdgfxhrxu7ujy)
+ </div>
+  
 <hr>
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML-red?style=for-the-badge&logo=html5&logoColor=white&labelColor=black">
