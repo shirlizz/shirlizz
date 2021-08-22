@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter">
   </a>
   <a align="center" href="https://www.instagram.com/shirley_lizz/">
-    <img src="https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-0e76a8?style=plastic&logo=Instagram">
   </a>
 </div>
  
