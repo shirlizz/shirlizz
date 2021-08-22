@@ -58,7 +58,7 @@
   <tr>
   <td width="50%">
       
-&nbsp; <br> [![Spotify](https://shirlizz.vercel.app/api/spotify)](https://open.spotify.com/user/22b3kzoc5opmzdgfxhrxu7ujy)
+&nbsp; <br> [![Spotify](https://novatorem-shirlizz.vercel.app/api/spotify)](https://open.spotify.com/user/22b3kzoc5opmzdgfxhrxu7ujy)
 
   </td>
   <td width="50%">
