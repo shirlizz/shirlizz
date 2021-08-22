@@ -19,6 +19,9 @@
   <a align="center" href="https://www.instagram.com/shirley_lizz/">
     <img src="https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram&logoColor=white">
   </a>
+  <a align="center" href="https://www.facebook.com/shirley.chuquin/">
+    <img src="https://img.shields.io/badge/-Facebook-0e76a8?style=plastic&logo=facebook&logoColor=white">
+  </a>
 </div>
  
  
