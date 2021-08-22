@@ -10,7 +10,7 @@
 <br>
  
  <div align="center">
-  <a align="center" href="https://www.linkedin.com/in/shirley-chuquín-4ab1251a9/">
+  <a align="center" target=_blank href="https://www.linkedin.com/in/shirley-chuquín-4ab1251a9/">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn&logoColor=white">
   </a>
   <a align="center" href="https://twitter.com/shirley_liz">
