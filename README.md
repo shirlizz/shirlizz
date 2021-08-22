@@ -52,12 +52,14 @@
   <img src="https://github-profile-trophy.vercel.app/?username=shirlizz&theme=radical"/>
 </div>
 
+----
 
 <h4>📀 I'm listening now:></h4>
 
 [![Spotify](https://novatorem-shirlizz.vercel.app/api/spotify)](https://open.spotify.com/user/22b3kzoc5opmzdgfxhrxu7ujy)
 
 
+----
 
 <!--
 **shirlizz/shirlizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
