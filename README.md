@@ -43,8 +43,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirlizz&count_private=true&layout=compact&show_icons=true&theme=radical"/>
 </div>
 
+<h2>🏆 GitHub Trophy</h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shirlizz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shirlizz&theme=radical"/>
+</div>
 
 
 <!--
