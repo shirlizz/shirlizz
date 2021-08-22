@@ -49,7 +49,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=shirlizz&theme=radical"/>
 </div>
 
-[![Spotify](https://shirlizz-git-main-shirlizz.vercel/api/spotify)](https://open.spotify.com/user/22b3kzoc5opmzdgfxhrxu7ujy)
+[![Spotify](https://novatorem-shirlizz.vercel.app/api/spotify)](https://open.spotify.com/user/22b3kzoc5opmzdgfxhrxu7ujy)
 
 
 
@@ -72,7 +72,7 @@
   </table>
 
 [//]: <> (The `&nbsp;` is to have Aphelion take up more space)
-[//]: <> (Old Visits: https://badges.pufler.dev/visits/novatorem/novatorem?logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)
+[//]: <> (Old Visits: https://badges.pufler.dev/visits/novatorem/shirlizz?logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)
 
 
 <!--
