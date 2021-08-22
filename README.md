@@ -28,7 +28,9 @@
 </div>
  
  <div align="center">
- [![Spotify](https://novatorem-shirlizz.vercel.app/api/spotify)](https://open.spotify.com/user/22b3kzoc5opmzdgfxhrxu7ujy)
+  <a href="https://open.spotify.com/user/22b3kzoc5opmzdgfxhrxu7ujy">
+    <img src="https://novatorem-shirlizz.vercel.app/api/spotify">
+  </a>
  </div>
   
 <hr>
