@@ -36,18 +36,10 @@
 </div>
 <hr>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shirlizz&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shirlizz&count_private=true&layout=compact&show_icons=true&theme=radical)
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirlizz&layout=compact&show_icons=true&theme=radical"/>
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shirlizz&count_private=true&layout=compact&show_icons=true&theme=radical"/>
-</a>
-
+</div>
 
 <!--
 **shirlizz/shirlizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
