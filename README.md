@@ -53,7 +53,7 @@
 </div>
 
 
-<h4>📀 I'm listening now: <img width="11px" src="./assets/red-dot.gif" /></h4>
+<h4>📀 I'm listening now:></h4>
 [![Spotify](https://novatorem-shirlizz.vercel.app/api/spotify)](https://open.spotify.com/user/22b3kzoc5opmzdgfxhrxu7ujy)
 
 
