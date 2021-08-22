@@ -28,9 +28,6 @@
 </div>
  <br>
  <div align="center">
-  <div align="center">
-    📀 Vibing to 📀:
-  </div >
   <a href="https://open.spotify.com/user/22b3kzoc5opmzdgfxhrxu7ujy">
     <img src="https://novatorem-shirlizz.vercel.app/api/spotify">
   </a>
