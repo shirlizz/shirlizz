@@ -19,6 +19,7 @@
   <a align="center" href="https://www.instagram.com/shirley_lizz/">
     <img src="https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram&logoColor=white">
   </a>
+  ![](https://komarev.com/ghpvc/?username=shirlizz&style=flat-square)
 </div>
  
  
