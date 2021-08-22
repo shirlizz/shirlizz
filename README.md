@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-✨ Walking toward unexpected ✨
+✨ Walking toward the unexpected ✨
 </div >
 
 <br>
